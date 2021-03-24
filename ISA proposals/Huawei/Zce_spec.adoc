@@ -714,7 +714,7 @@ Assembly examples.
 [source,sourceCode,text]
 ----
 # c.mvp: sreg1 = 0; sreg2 = 0;
-mv (x2, x3), (x18, x19) ; # mv x2, x2; mv x18, x19
+mv (x2, x3), (x18, x19) ; # mv x2, x3; mv x18, x19
 ----
 
 
